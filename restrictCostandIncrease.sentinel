@@ -3,6 +3,9 @@
 # the monthly cost that would be incurred if the current plan
 # were applied
 
+# Copyright IBM Corp. 2019
+# SPDX-License-Identifier: MPL-2.0
+
 ##### Imports #####
 
 import "tfrun"
